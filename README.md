@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Talal</h1>
 
-![Talal's Avatar](https://via.placeholder.com/150)  <!-- Replace with your actual image URL -->
 
 I’m a passionate blockchain developer with a knack for innovative solutions. As a full-stack Web3 and blockchain developer, I specialize in creating cutting-edge decentralized applications and smart contracts.
 
